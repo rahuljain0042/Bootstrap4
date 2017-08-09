@@ -1,0 +1,44 @@
+
+.slider img {
+    margin-top: 100px;
+    height: 500px;
+    width: 100%;
+}
+
+.card1 {
+    margin-top: 10px;
+}
+
+
+.search{
+	float:right;
+	margin-left: 250px;
+}
+
+.media{
+	background-color: #9fa8da;
+	height:100px;
+	width:100%;
+}
+
+.footer {
+    background-color: black;
+    color: white;
+}
+
+.foot a img{
+	display:center;
+}
+.about{
+	float: right;
+}
+
+.privacy{
+	float: right;
+	margin-right: 10px;
+}
+
+.contact{
+	float: right;
+	margin-right: 10px;
+}
