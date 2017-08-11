@@ -18,7 +18,7 @@
 
 .search{
 	float:right;
-	margin-left: 250px;
+	margin-left: 600px;
 }
 
 .media{
@@ -28,13 +28,10 @@
 }
 
 .footer {
-    background-color: black;
+    background-color: #9fa8da;
     color: white;
 }
 
-.foot a img{
-	display:center;
-}
 .about{
 	float: right;
 }
