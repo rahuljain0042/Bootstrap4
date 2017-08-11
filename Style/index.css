@@ -15,17 +15,10 @@
     margin-top: 10px;
 }
 
-
-.search{
-	float:right;
-	margin-left: 600px;
+.book a{
+	color:black;
 }
 
-.media{
-	background-color: #9fa8da;
-	height:100px;
-	width:100%;
-}
 
 .footer {
     background-color: #9fa8da;
@@ -44,7 +37,4 @@
 .contact{
 	float: right;
 	margin-right: 10px;
-}
-.book a{
-	color:black;
 }
