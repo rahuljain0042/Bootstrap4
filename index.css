@@ -5,6 +5,12 @@
     width: 100%;
 }
 
+.jumbot{
+
+	height:200px;
+	background-color: :#9fa8da;
+}
+
 .card1 {
     margin-top: 10px;
 }
@@ -42,6 +48,6 @@
 	float: right;
 	margin-right: 10px;
 }
-.book{
+.book a{
 	color:black;
 }
