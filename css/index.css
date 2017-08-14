@@ -1,0 +1,49 @@
+.slider img {
+    margin-top: 100px;
+    height: 500px;
+    width: 100%;
+}
+
+.jumbot {
+
+    height: 200px;
+    background-color: :#9fa8da;
+}
+
+.card1 {
+    margin-top: 10px;
+}
+
+.book a {
+    color: black;
+}
+
+
+.footer {
+    background-color: #9fa8da;
+    color: white;
+}
+
+.about {}
+
+.privacy {
+
+    margin-right: 10px;
+}
+
+.contact {
+
+    margin-right: 10px;
+}
+
+.icons a img {
+    margin-top: 30px;
+}
+
+.righttext p {
+    text-align: right;
+}
+
+.summary{
+	height:100px;
+}
